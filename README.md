@@ -16,7 +16,7 @@
 
 ### 一键运行
 ```bash
-git clone https://github.com/yourname/pnl-ai-diagnosis-agent.git
+git clone https://github.com/middlewayforever-sudo/billy-pnl-rag-agent
 cd pnl-ai-diagnosis-agent
 pip install -r requirements.txt
 streamlit run app.py
