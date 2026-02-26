@@ -10,7 +10,7 @@
 
 ### 技术栈
 - LangChain RAG + Chroma向量库
-- Groq Llama3-70B (免费快速)
+- Groq Llama3.7-70B (免费快速)
 - Streamlit企业级Dashboard
 - Pandas + Plotly可视化
 
